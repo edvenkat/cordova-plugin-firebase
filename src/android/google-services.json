@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "945034206844",
-    "firebase_url": "https://test-firebase-analytics-28697.firebaseio.com",
-    "project_id": "test-firebase-analytics-28697",
-    "storage_bucket": "test-firebase-analytics-28697.appspot.com"
+    "project_number": "951758664315",
+    "firebase_url": "https://test-firebase-analytics-3ee42.firebaseio.com",
+    "project_id": "test-firebase-analytics-3ee42",
+    "storage_bucket": "test-firebase-analytics-3ee42.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:945034206844:android:8ebb5d4866a7c4e4",
+        "mobilesdk_app_id": "1:951758664315:android:8ebb5d4866a7c4e4",
         "android_client_info": {
           "package_name": "com.hotcourses.group.wuapp.s12"
         }
       },
       "oauth_client": [
         {
-          "client_id": "945034206844-sapiac9ggpvhvn5sp6i8vi2p3nt8k4r4.apps.googleusercontent.com",
+          "client_id": "951758664315-f657avhona5um37mklip9ur4la2me0vk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDy0ogSlCuQH0QynnZKkaor_fL70Pp6tYM"
+          "current_key": "AIzaSyBaYIwFG9_D1S8VWLHH20O_4oJ5R6N2DCI"
         }
       ],
       "services": {
