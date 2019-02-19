@@ -24,10 +24,10 @@ dependencies {
        transitive = true
     }
 }
-
+/*
 cdvPluginPostBuildExtras.add({
     apply plugin: 'com.google.gms.google-services'
     apply plugin: 'io.fabric'
-})
-//apply plugin: com.google.gms.googleservices.GoogleServicesPlugin
-//apply plugin: com.crashlytics.tools.gradle.CrashlyticsPlugin
+})*/
+apply plugin: com.google.gms.googleservices.GoogleServicesPlugin
+apply plugin: com.crashlytics.tools.gradle.CrashlyticsPlugin
